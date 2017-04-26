@@ -1,13 +1,4 @@
 <?php include_once 'school_template/header.php'; ?>	
-<?php
-		$option = isset($_POST['taskOption']) ? $_POST['taskOption'] : false;
-   		if ($option) {
-     		 echo htmlentities($_POST['taskOption'], ENT_QUOTES, "UTF-8");
-   		} else {
-     		echo "task option is required";
-     		exit; 
-   		}
-	?>
 <!-- Header -->
 	<header id="head">
 		<div class="container">
@@ -37,6 +28,15 @@
   	</select>
   	<input type="submit" value="Zobraz"/>
 	</form></center>
+	<?php
+		$option = isset($_POST['taskOption']) ? $_POST['taskOption'] : false;
+   		if ($option) {
+     		 echo htmlentities($_POST['taskOption'], ENT_QUOTES, "UTF-8");
+   		} else {
+     		echo "task option is required";
+     		exit; 
+   		}
+	?>
 </body>
 
 <?php include_once'school_template/footer.php'; ?>
