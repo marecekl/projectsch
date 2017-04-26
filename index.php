@@ -33,21 +33,21 @@
 						<div class="grey-box-icon b2"> 
 							<h4>Kedy sú prázdniny?</h4>
 							<p>Všetky voľné dni cez ktoré môžeš oddychovať nájdeš tu!</p>
-     						<p><a href="#"><em>Viac</em></a></p>
+     						<p><a href="prazdniny.php"><em>Viac</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
 						<div class="grey-box-icon b3"> 
 							<h4>Zajtra nás čaká</h4>
 							<p>Pozri sa načo sa môžeš zajtra tešiť v školskej jedálni.</p>
-     						<p><a href="#"><em>Viac</em></a></p>
+     						<p><a href="zajtra.php"><em>Viac</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
 						<div class="grey-box-icon b4">  
 							<h4>Domáce úlohy</h4>
 							<p>Všetky tvoje povinnosti na jednom mieste.</p>
-     						<p><a href="#"><em>Viac</em></a></p>
+     						<p><a href="domaceulohy.php"><em>Viac</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 				</div>
