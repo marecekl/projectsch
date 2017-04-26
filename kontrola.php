@@ -30,11 +30,12 @@
 <body>
 	<center><form method="post" action="kontrola.php">
   	<select name="taskOption">
-    	<option value="first">First</option>
-    	<option value="second">Second</option>
-    	<option value="third">Third</option>
+    	<option value="first">Prváci</option>
+    	<option value="second">Druháci</option>
+    	<option value="third">Tretiaci</option>
+	<option value="third">Štvrtáci</option>
   	</select>
-  	<input type="submit" value="Submit the form"/>
+  	<input type="submit" value="Zobraz"/>
 	</form></center>
 </body>
 
