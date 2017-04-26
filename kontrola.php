@@ -28,14 +28,14 @@
 		</div>
 </header>
 <body>
-	<form method="post" action="kontrola.php">
+	<center><form method="post" action="kontrola.php">
   	<select name="taskOption">
     	<option value="first">First</option>
     	<option value="second">Second</option>
     	<option value="third">Third</option>
   	</select>
   	<input type="submit" value="Submit the form"/>
-	</form>
+	</form></center>
 </body>
 
 <?php include_once'school_template/footer.php'; ?>
