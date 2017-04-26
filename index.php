@@ -61,10 +61,10 @@
       	<div class="col-md-8"><div class="title-box clearfix "><h2 class="title-box_primary">O projekte</h2></div> 
         <p><span>Projekt je zameraný na online inegráciu žiakov, kde môžu nájsť všetky dôležité informácie k svojmu štúdiu.  </span></p>
         <p>Jednoduchý prehľad hodnotení humanitných a spoločenských predmetov, ponuka jedla na obed k ďaľším dňom zo školskej jedálne a hlavne prehľad všetkých voľných dní v aktuálnom školskom roku zabezpečia informovanosť žiakov všade, kde majú prístup k webu.</p>
-        <a href="#" title="read more" class="btn-inline " target="_self">read more</a> </div>
+        </div>
               
           
-          <div class="col-md-4"><div class="title-box clearfix "><h2 class="title-box_primary">Akcie na škole</h2></div> 
+          <div class="col-md-4"><div class="title-box clearfix "><h2 class="title-box_primary">Aktuality</h2></div> 
             <div class="list styled custom-list">
             <ul>
             <li>Matematická olympiáda - KLOKAN</li>
