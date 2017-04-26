@@ -59,8 +59,8 @@
       <section class="container" id="about_school">
       <div class="row">
       	<div class="col-md-8"><div class="title-box clearfix "><h2 class="title-box_primary">O projekte</h2></div> 
-        <p><span>Perspiciatis unde omnis iste natus error sit voluptatem. Cum sociis natoque penatibus et magnis dis parturient montes ascetur ridiculus musull dui.</span></p>
-        <p>Lorem ipsumulum aenean noummy endrerit mauris. Cum sociis natoque penatibus et magnis dis parturient montes ascetur ridiculus mus. Null dui. Fusce feugiat malesuada odio.</p><p>Lorem ipsumulum aenean noummy endrerit mauris. Cum sociis natoque penatibus et magnis dis parturient montes ascetur ridiculus mus. Null dui. Fusce feugiat malesuada odio.</p>
+        <p><span>Projekt je zameraný na online inegráciu žiakov, kde môžu nájsť všetky dôležité informácie k svojmu štúdiu.  </span></p>
+        <p>Jednoduchý prehľad hodnotení humanitných a spoločenských predmetov, ponuka jedla na obed k ďaľším dňom zo školskej jedálne a hlavne prehľad všetkých voľných dní v aktuálnom školskom roku zabezpečia informovanosť žiakov všade, kde majú prístup k webu.</p>
         <a href="#" title="read more" class="btn-inline " target="_self">read more</a> </div>
               
           
