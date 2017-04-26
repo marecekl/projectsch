@@ -3,10 +3,10 @@
 if(isset($_POST['select1'])){
     $select1 = $_POST['select1'];
     switch ($select1) {
-        case 'first':
+        case 'value1':
             echo 'this is value1<br/>';
             break;
-        case 'second':
+        case 'value2':
             echo 'value2<br/>';
             break;
         default:
@@ -35,14 +35,14 @@ if(isset($_POST['select1'])){
 		</div>
 </header>
 <body>
-	<center><form method="post" action="">
-  	<select name="taskOption">
-    	<option value="first">Prváci</option>
-    	<option value="second">Druháci</option>
-    	<option value="third">Tretiaci</option>
-	<option value="forth">Štvrtáci</option>
-  	</select>
-  	<input type="submit" value="Zobraz"/>
+	<center><form action="" method="post">
+    	<select name="select1">
+        <option value="value1">Prváci</option>
+        <option value="value2">Druháci</option>
+	<option value="value3">Tretiaci</option>
+        <option value="value4">Štvrtáci</option>
+    	</select>
+    	<input type="submit" name="submit" value="Go"/>
 	</form></center>
 </body>
 
