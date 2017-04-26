@@ -1,6 +1,6 @@
 <?php include_once 'school_template/header.php'; ?>
 <body>
-	<center><form action="" method="post">
+	<center>Vyber si ročník: <form action="" method="post">
     	<select name="select1">
         <option value="value1">Prváci</option>
         <option value="value2">Druháci</option>
