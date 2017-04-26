@@ -33,7 +33,7 @@
 				<ul class="nav navbar-nav pull-right mainNav">
 					<li class="c1"><a href="/">Domov</a></li>
 					<li class="c2"><a href="/#about_school">O projekte</a></li>
-					<li class="c3"><a href="login.php">Prihlásenie</a></li>
+					
 
 				</ul>
 			</div>
