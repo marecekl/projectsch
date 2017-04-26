@@ -25,90 +25,34 @@
 					<div class="col-md-3">
 						<div class="grey-box-icon b1"> 
 							<h4>Kontrola známok</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
-							eset nec lacus elit dor broma.</p>
+							<p>Hodnotenie predmetov na jednom mieste </p>
      						<p><a href="#"><em>Viac</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
 						<div class="grey-box-icon b2"> 
 							<h4>Kedy sú prázdniny?</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
-							eset nec lacus elit dor broma.</p>
+							<p>Všetky voľné dni cez ktoré môžeš oddychovať nájdeš tu!</p>
      						<p><a href="#"><em>Viac</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
 						<div class="grey-box-icon b3"> 
 							<h4>Zajtra nás čaká</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
-							eset nec lacus elit dor broma.</p>
+							<p>Pozri sa načo sa môžeš zajtra tešiť v školskej jedálni.</p>
      						<p><a href="#"><em>Viac</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
 						<div class="grey-box-icon b4">  
 							<h4>Domáce úlohy</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempus eleifend risus ut congue
-							eset nec lacus elit dor broma.</p>
+							<p>Všetky tvoje povinnosti na jednom mieste.</p>
      						<p><a href="#"><em>Viac</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 				</div>
     </div>
-      <section class="news-box top-margin">
-        <div class="container">
-            <h2><span>Môže vás zaujímať</span></h2>
-            <div class="row">
-       
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="newsBox">
-                        <div class="thumbnail">
-                            <figure><img src="assets/images/news2.jpg" alt=""></figure>
-                            <div class="caption maxheight2">
-                            <div class="box_inner">
-                                        <div class="box">
-                                            <p class="title"><h5>Pre žiakov</h5></p>
-                                            <p>Lorem ipsum dolor sit amet, conc tetu er adipi scing. Praesent ves tibuum molestie lacuiirhs. Aenean.</p>
-                                        </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="newsBox">
-                        <div class="thumbnail">
-                            <figure><img src="assets/images/news3.jpg" alt=""></figure>
-                            <div class="caption maxheight2">
-                            <div class="box_inner">
-                                        <div class="box">
-                                            <p class="title"><h5>Pre rodičov</h5></p>
-                                            <p>Lorem ipsum dolor sit amet, conc tetu er adipi scing. Praesent ves tibuum molestie lacuiirhs. Aenean.</p>
-                                        </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
-                    <div class="newsBox">
-                        <div class="thumbnail">
-                            <figure><img src="assets/images/news4.jpg" alt=""></figure>
-                            <div class="caption maxheight2">
-                           <div class="box_inner">
-                                        <div class="box">
-                                            <p class="title"><h5>Pre učiteľov</h5></p>
-                                            <p>Lorem ipsum dolor sit amet, conc tetu er adipi scing. Praesent ves tibuum molestie lacuiirhs. Aenean.</p>
-                                        </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+     
    
   
 	
