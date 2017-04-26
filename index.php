@@ -26,7 +26,7 @@
 						<div class="grey-box-icon b1"> 
 							<h4>Kontrola známok</h4>
 							<p>Hodnotenie predmetov na jednom mieste </p>
-     						<p><a href="#"><em>Viac</em></a></p>
+     						<p><a href="kontrola.php"><em>Viac</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
