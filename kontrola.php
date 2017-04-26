@@ -33,17 +33,91 @@
     	$select1 = $_POST['select1'];
     	switch ($select1) {
         case 'value1':
-            echo '<table style="width:100%"><tr><th>Humanitné</th><th>Spoločenské</th><th>Vedné</th><tr>
-    <td>1: 100-80</td>
-    <td>1: 100-70</td>
-    <td>1: 100-90</td>
-  </tr></tr></table>';
+            echo '<table style="width:100%"><tr><th>Humanitné</th><th>Spoločenské</th><th>Vedné</th>
+	    <tr>
+    	<td>1: 100-80%</td>
+    	<td>1: 100-70%</td>
+    	<td>1: 100-90%</td>
+  	</tr>
+	<tr>
+    	<td>2: 80-70%</td>
+    	<td>2: 70-60%</td>
+    	<td>2: 90-70%</td>
+  	</tr>
+	<tr>
+    	<td>3: 70-60%</td>
+    	<td>3: 60-50%</td>
+    	<td>3: 70-50%</td>
+  	</tr>
+	<tr>
+    	<td>4: 60-50%</td>
+    	<td>4: 50-40%</td>
+    	<td>4: 50-40%</td>
+  	</tr>
+	<tr>
+    	<td>5: 50-0%</td>
+    	<td>5: 40-0%</td>
+    	<td>5: 40-0%</td>
+  	</tr>
+	</tr></table>';
             break;
         case 'value2':
-            echo 'value2<br/>';
+            echo '<table style="width:100%"><tr><th>Humanitné</th><th>Spoločenské</th><th>Vedné</th>
+	    <tr>
+    	<td>1: 100-80%</td>
+    	<td>1: 100-70%</td>
+    	<td>1: 100-90%</td>
+  	</tr>
+	<tr>
+    	<td>2: 80-70%</td>
+    	<td>2: 70-60%</td>
+    	<td>2: 90-70%</td>
+  	</tr>
+	<tr>
+    	<td>3: 70-60%</td>
+    	<td>3: 60-50%</td>
+    	<td>3: 70-50%</td>
+  	</tr>
+	<tr>
+    	<td>4: 60-50%</td>
+    	<td>4: 50-40%</td>
+    	<td>4: 50-40%</td>
+  	</tr>
+	<tr>
+    	<td>5: 50-0%</td>
+    	<td>5: 40-0%</td>
+    	<td>5: 40-0%</td>
+  	</tr>
+	</tr></table>';
             break;
         default:
-            # code...
+            echo '<table style="width:100%"><tr><th>Humanitné</th><th>Spoločenské</th><th>Vedné</th>
+	    <tr>
+    	<td>1: 100-80%</td>
+    	<td>1: 100-70%</td>
+    	<td>1: 100-90%</td>
+  	</tr>
+	<tr>
+    	<td>2: 80-70%</td>
+    	<td>2: 70-60%</td>
+    	<td>2: 90-70%</td>
+  	</tr>
+	<tr>
+    	<td>3: 70-60%</td>
+    	<td>3: 60-50%</td>
+    	<td>3: 70-50%</td>
+  	</tr>
+	<tr>
+    	<td>4: 60-50%</td>
+    	<td>4: 50-40%</td>
+    	<td>4: 50-40%</td>
+  	</tr>
+	<tr>
+    	<td>5: 50-0%</td>
+    	<td>5: 40-0%</td>
+    	<td>5: 40-0%</td>
+  	</tr>
+	</tr></table>';
             break;
     	}
 	}
