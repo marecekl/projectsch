@@ -1,4 +1,20 @@
 <?php include_once 'school_template/header.php'; ?>	
+<?php
+if(isset($_POST['select1'])){
+    $select1 = $_POST['select1'];
+    switch ($select1) {
+        case 'first':
+            echo 'this is value1<br/>';
+            break;
+        case 'second':
+            echo 'value2<br/>';
+            break;
+        default:
+            # code...
+            break;
+    }
+}
+?>
 <!-- Header -->
 	<header id="head">
 		<div class="container">
@@ -19,24 +35,15 @@
 		</div>
 </header>
 <body>
-	<center><form method="post" action="kontrola.php">
+	<center><form method="post" action="">
   	<select name="taskOption">
     	<option value="first">Prváci</option>
     	<option value="second">Druháci</option>
     	<option value="third">Tretiaci</option>
-	<option value="third">Štvrtáci</option>
+	<option value="forth">Štvrtáci</option>
   	</select>
   	<input type="submit" value="Zobraz"/>
 	</form></center>
-	<?php
-		$option = isset($_POST['taskOption']) ? $_POST['taskOption'] : false;
-   		if ($option) {
-     		 echo htmlentities($_POST['taskOption'], ENT_QUOTES, "UTF-8");
-   		} else {
-     		echo "task option is required";
-     		exit; 
-   		}
-	?>
 </body>
 
 <?php include_once'school_template/footer.php'; ?>
