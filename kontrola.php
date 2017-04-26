@@ -7,7 +7,7 @@
 	<option value="value3">Tretiaci</option>
         <option value="value4">Štvrtáci</option>
     	</select>
-    	<input type="submit" name="submit" value="Go"/>
+    	<input type="submit" name="submit" value="Zobraziť"/>
 	</form></center>
 	<?php
 	if(isset($_POST['select1'])){
